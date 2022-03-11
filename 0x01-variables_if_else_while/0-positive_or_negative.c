@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - starting to code c */
-
-/* Return: Always 0 (Success) */
+/**
+ * main - Print a test
+ *
+/* Return: Always 0 (Success) 
+ */
 int main(void)
 {
 	int n;
