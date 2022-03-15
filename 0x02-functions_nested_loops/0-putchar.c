@@ -1,7 +1,4 @@
-#include <stdlib.h>
-#include <_putchar.h>
-#include <time.h>
-#include <stdio.h>
+#include <_main.h>
 
 /**
  * main - Print _purchar
